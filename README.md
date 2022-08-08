@@ -213,8 +213,3 @@ $ ./shellby
 $ setenv NAME Poppy
 $ unsetenv NAME
 $ echo $NAME
-
-$
-Authors ✒️
-Biruk Gezahegn <Biruk>
-Mikiyas Aklilu <Mikiyas>
