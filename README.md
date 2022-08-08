@@ -1,1 +1,1 @@
-# simple_shell Assginment for Abdulahi Salad Adan, MIKIYAS HAILU
+Simple shell Assignment for Abdulahi Salad Adan, MIKIYAS HAILU
